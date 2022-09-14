@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
 //        this.startToast(findViewById(R.id.toast_btn));
     }
 
+    //add comment
     public void startToast(View view) {
         Toast.makeText(this, toastMessage, Toast.LENGTH_SHORT).show();
     }
