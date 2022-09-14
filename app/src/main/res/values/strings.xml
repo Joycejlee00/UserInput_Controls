@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserI Input and Controls</string>
+    <string name="Rock_genre">Rock</string>
+    <string name="pop_genre">Pop</string>
+    <string name="hip_pop_genre">Hip Pop</string>
+    <string name="country_genre">Country</string>
+    <string name="edm_genre">Electronic Dance Music</string>
+    <string name="toast_string">Show Toast</string>
+</resources>
